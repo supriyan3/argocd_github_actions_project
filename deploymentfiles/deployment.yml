@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: snagineni03/myproject:9
+          image: snagineni03/myproject:3
 
           ports:
             - containerPort: 8080
